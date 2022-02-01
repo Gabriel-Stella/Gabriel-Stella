@@ -7,7 +7,6 @@
 </h2>
 
 <br>
-<br>
 
 
 
@@ -19,7 +18,7 @@
       <img align="center" alt="Matlab" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
     </div>
     <div style="width: 60%; display: table-cell;">
-      <h3>Languages I want to learn or improve knowledge:</h3>
+      <h3>Languages I want to learn or improve:</h3>
       <img align="center" alt="R" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
       <img align="center" alt="Julia" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
       <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,6 +46,9 @@
     </div>
   </div>
 </div>
+
+
+
 
 
 <!---
