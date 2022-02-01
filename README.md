@@ -12,12 +12,12 @@
 
 <div style="display: table;">
   <div style="display: table-row;"> 
-    <div style="width: 25%; display: table-cell;">
+    <div style="width: 40%; display: table-cell;">
       <h3>Main Languages:</h3>
       <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Matlab" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
     </div>
-    <div style="width: 60%; display: table-cell;">
+    <div style="width: 50%; display: table-cell;">
       <h3>Languages I want to learn or improve:</h3>
       <img align="center" alt="R" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
       <img align="center" alt="Julia" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
