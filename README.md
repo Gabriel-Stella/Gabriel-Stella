@@ -38,7 +38,7 @@
     <div style="width: 50%; display: table-cell;">
       <h3>Contact me:</h3>
       <a href = "mailto:gabrielstella28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/gabriel-stella-6568a719b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/gabriel-dalla-stella-6568a719b//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
     <div style="width: 50%; display: table-cell;">
       <h3>Sometimes I write my projects in:</h3>
